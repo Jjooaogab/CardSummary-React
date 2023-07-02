@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://summarycard-rho.vercel.app/)
-- Live Site URL: [](https://summarycard-rho.vercel.app/)
+- Solution URL: [Github](https://summarycard-rho.vercel.app/)
+- Live Site URL: [WebSite](https://summarycard-rho.vercel.app/)
 
 ## My process
 
